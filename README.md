@@ -1,4 +1,4 @@
-# Cypress API Testing Sample Project
+# Cypress Testing Sample Project
 
 This project demonstrates automated API testing using Cypress, featuring tests for the ReqRes.in demo API and Sauce Labs demo site.
 
